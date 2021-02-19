@@ -1,0 +1,25 @@
+.form-margin{
+    margin-bottom: 1em;
+}
+.search{
+    width:30em !important;
+}
+.btn-unique {
+    color: #fff !important;
+    background-color: #880e4f !important;
+}
+.btn  {
+    margin: .375rem;
+    color: inherit;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    white-space: normal;
+    cursor: pointer;
+    border: 0;
+    border-radius: .125rem;
+   padding: .84rem 2.14rem;
+    font-size: .81rem;
+}
+.btn-rounded {
+    border-radius: 10em;
+}
