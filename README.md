@@ -1,6 +1,6 @@
-# youtube-angular
+# youtube-angular-lambda
 
-This is a test project to demonstrate using Youtube API with Angular 7. It lists set of videos by default and search option to get preferred videos on yotube.
+This is a test project to demonstrate using Youtube API with Angular 7-lambda. It lists set of videos by default and search option to get preferred videos on yotube.
 
 ## Get started
 
